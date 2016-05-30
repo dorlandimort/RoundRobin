@@ -98,7 +98,7 @@
                                     <li  data-date="${process.date}">
                                         <h2>${process.name}</h2>
                                         <em>Tiempo de inicio: ${process.start}</em>
-                                        <em>Timpo de final: ${process.end}</em>
+                                        <em>Tiempo de final: ${process.end}</em>
                                         <em>Duración: ${process.end - process.start}</em>
 
                                     </li>

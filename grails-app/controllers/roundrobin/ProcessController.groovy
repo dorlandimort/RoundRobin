@@ -25,7 +25,7 @@ class ProcessController {
         [processes: processesList, originalProcesses: processes, quantum: quantum, ctxChanges: ctxChanges]
     }
 
-    def prueba() {
+    def main() {
 
     }
 
