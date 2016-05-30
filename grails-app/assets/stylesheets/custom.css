@@ -618,8 +618,9 @@ a:focus {
 }
 
 .navbar-header {
-    background: #34495E;
+    background: #2c3e50;
 }
+
 
 .navbar-right {
     margin-right: 0;
@@ -5835,7 +5836,6 @@ login_content form input[type="submit"],#content form .submit{float: left; margi
     color: #00aeef;
 }
 
-header{width:100%;}
 /********** end of sign in ********************/
 /* *********  start nprogress  **************************** */
 /* Make clicks pass-through */

@@ -13,18 +13,12 @@
 </head>
 
 <body>
-<div class="page-title">
-    <div class="title_left">
-        <h3>Ingresar datos</h3>
-    </div>
-</div>
 <div class="clearfix"></div>
 <div class="row">
     <div class="col-md-12 col-sm-12 col-xs-12">
         <div class="x_panel">
-
             <div class="x_content">
-                <input type="button" value="Agregar Proceso" id="newProcess" class=" col-md-2 col-xs-4">
+                <input type="button" value="Agregar Proceso" id="newProcess" class="btn btn-dark col-md-2 col-xs-4">
                 <br />
                 <br />
                 <br />
@@ -36,6 +30,8 @@
                             <input class="form-control col-md-1 col-xs-12" placeholder="Milisegundos" required name="quantum" type="text">
                         </div>
                     </div>
+                    <br />
+                    <br />
                     <div class="row">
                         <label class="control-label col-md-3 col-sm-3 col-xs-12">Nombre:</label>
                         <div class="col-md-6 col-sm-6 col-xs-12">

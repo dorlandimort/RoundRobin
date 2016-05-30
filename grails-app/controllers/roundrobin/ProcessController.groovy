@@ -17,9 +17,11 @@ class ProcessController {
                     totalCpu: Double.parseDouble(cpus.get(i)))
             processes.add(p)
         }
-        List<Process> processesList = rrb.createRoundRobin(processes, quantum)
 
-        [processes: processesList, originalProcesses: processes, quantum: quantum]
+        int ctxChanges = 0
+        List<Process> processesList = rrb.createRoundRobin(processes, quantum, ctxChanges)
+
+        [processes: processesList, originalProcesses: processes, quantum: quantum, ctxChanges: ctxChanges]
     }
 
     def prueba() {
