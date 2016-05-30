@@ -25,9 +25,9 @@
                 <form id="demo-form2" data-parsley-validate class="form-horizontal form-label-left"
                       action="${createLink(controller: 'process', action: 'results')}">
                     <div class="form-group">
-                        <label class="control-label col-md-3 col-sm-3 col-xs-12">Quatum:</label>
+                        <label class="control-label col-md-3 col-sm-3 col-xs-12">Quantum:</label>
                         <div class="col-md-3 col-sm-3 col-xs-12">
-                            <input class="form-control col-md-1 col-xs-12" placeholder="Milisegundos" required name="quantum" type="text">
+                            <input class="form-control col-md-1 col-xs-12" placeholder="Milisegundos" required name="quantum" type="number" min="1" max="100000">
                         </div>
                     </div>
                     <br />
@@ -45,7 +45,7 @@
                     <div class="row">
                         <label class="control-label col-md-3 col-sm-3 col-xs-12">Ráfaga de CPU:</label>
                         <div class="col-md-6 col-sm-6 col-xs-12">
-                            <input type="text" placeholder="Milisegundos" name="cpu" required class="form-control col-md-7 col-xs-12">
+                            <input type="number" min="1" max="100000" placeholder="Milisegundos" name="cpu" required class="form-control col-md-7 col-xs-12">
                         </div>
                     </div>
                     <br />

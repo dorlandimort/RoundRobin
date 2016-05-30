@@ -13,7 +13,7 @@
     <div class="row">
         <label class="control-label col-md-3 col-sm-3 col-xs-12">Ráfaga de CPU:</label>
         <div class="col-md-6 col-sm-6 col-xs-12">
-            <input type="text" placeholder="Milisegundos" name="cpu" required class="form-control col-md-7 col-xs-12">
+            <input type="number" min="1" max="100000" placeholder="Milisegundos" name="cpu" required class="form-control col-md-7 col-xs-12">
         </div>
     </div>
     <br />

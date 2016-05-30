@@ -76,28 +76,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.gsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.gsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/process/main.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39779004">
-              <caret line="20" column="106" selection-start-line="20" selection-start-column="106" selection-end-line="20" selection-end-column="106" />
+            <state vertical-scroll-proportion="-7.3333335">
+              <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="69" />
               <folding>
-                <marker date="1464583176305" expanded="true" signature="2883:3452" placeholder="{...}" />
-                <marker date="1464583176305" expanded="true" signature="2927:3444" placeholder="{...}" />
-                <marker date="1464583176305" expanded="true" signature="2948:3432" placeholder="{&quot;method&quot;: 'GET'...}" />
-                <marker date="1464583176305" expanded="true" signature="3109:3318" placeholder="{...}" />
-                <marker date="1464583176305" expanded="true" signature="3213:3298" placeholder="{...}" />
-                <marker date="1464583176305" expanded="true" signature="3359:3418" placeholder="{...}" />
+                <marker date="1464583491109" expanded="true" signature="2930:3499" placeholder="{...}" />
+                <marker date="1464583491109" expanded="true" signature="2974:3491" placeholder="{...}" />
+                <marker date="1464583491109" expanded="true" signature="2995:3479" placeholder="{&quot;method&quot;: 'GET'...}" />
+                <marker date="1464583491109" expanded="true" signature="3156:3365" placeholder="{...}" />
+                <marker date="1464583491109" expanded="true" signature="3260:3345" placeholder="{...}" />
+                <marker date="1464583491109" expanded="true" signature="3406:3465" placeholder="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_processInput.gsp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_processInput.gsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/views/process/_processInput.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.0">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.45303866">
+              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -585,12 +585,12 @@
         <option value="$PROJECT_DIR$/grails-app/controllers/roundrobin/UrlMappings.groovy" />
         <option value="$PROJECT_DIR$/grails-app/assets/stylesheets/bootstrap.css" />
         <option value="$PROJECT_DIR$/grails-app/assets/stylesheets/font-awesome.css" />
-        <option value="$PROJECT_DIR$/grails-app/views/process/_processInput.gsp" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/grails-app/views/layouts/mainPage.gsp" />
         <option value="$PROJECT_DIR$/grails-app/controllers/roundrobin/RoundRobin.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/process/results.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/process/main.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/process/_processInput.gsp" />
       </list>
     </option>
   </component>
@@ -1303,12 +1303,12 @@
       <workItem from="1464458882443" duration="1140000" />
       <workItem from="1464460027708" duration="2684000" />
       <workItem from="1464488695309" duration="9844000" />
-      <workItem from="1464556573489" duration="19799000" />
+      <workItem from="1464556573489" duration="19977000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33547000" />
+    <option name="totallyTimeSpent" value="33725000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="1366" height="738" extended-state="0" />
@@ -1635,14 +1635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/process/_processInput.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.0">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/process/results.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.2592592">
@@ -1662,16 +1654,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/process/main.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39779004">
-          <caret line="20" column="106" selection-start-line="20" selection-start-column="106" selection-end-line="20" selection-end-column="106" />
+        <state vertical-scroll-proportion="-7.3333335">
+          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="69" />
           <folding>
-            <marker date="1464583176305" expanded="true" signature="2883:3452" placeholder="{...}" />
-            <marker date="1464583176305" expanded="true" signature="2927:3444" placeholder="{...}" />
-            <marker date="1464583176305" expanded="true" signature="2948:3432" placeholder="{&quot;method&quot;: 'GET'...}" />
-            <marker date="1464583176305" expanded="true" signature="3109:3318" placeholder="{...}" />
-            <marker date="1464583176305" expanded="true" signature="3213:3298" placeholder="{...}" />
-            <marker date="1464583176305" expanded="true" signature="3359:3418" placeholder="{...}" />
+            <marker date="1464583491109" expanded="true" signature="2930:3499" placeholder="{...}" />
+            <marker date="1464583491109" expanded="true" signature="2974:3491" placeholder="{...}" />
+            <marker date="1464583491109" expanded="true" signature="2995:3479" placeholder="{&quot;method&quot;: 'GET'...}" />
+            <marker date="1464583491109" expanded="true" signature="3156:3365" placeholder="{...}" />
+            <marker date="1464583491109" expanded="true" signature="3260:3345" placeholder="{...}" />
+            <marker date="1464583491109" expanded="true" signature="3406:3465" placeholder="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/process/_processInput.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45303866">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+          <folding />
         </state>
       </provider>
     </entry>
