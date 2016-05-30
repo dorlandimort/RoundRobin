@@ -18,7 +18,7 @@
     <div class="col-md-12 col-sm-12 col-xs-12">
         <div class="x_panel">
             <div class="x_content">
-                <input type="button" value="Agregar Proceso" id="newProcess" class="btn btn-dark col-md-2 col-xs-4">
+                <input type="button" value="Agregar Proceso" id="newProcess" class="btn btn-dark col-md-2 col-xs-12">
                 <br />
                 <br />
                 <br />

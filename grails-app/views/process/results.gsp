@@ -51,8 +51,8 @@
                         </table>
                     </div>
                 <br /><br />
-                <ol>
-                    <li>Cambios de contexto: ${ctxChanges}</li>
+                <ol class="form-control">
+                    <li class="fa fa-list-ul"> Cambios de contexto: ${ctxChanges}</li>
                 </ol>
                 <section class="cd-horizontal-timeline">
 

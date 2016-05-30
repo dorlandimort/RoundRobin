@@ -28,6 +28,7 @@ class RoundRobin {
             Process aux = new Process()
             aux.name = p.name
             aux.totalCpu = p.totalCpu
+
             if (p.cpu > quantum) {
                 p.cpu -= quantum
                 aux.start = p.waitTime + p.spareTime
