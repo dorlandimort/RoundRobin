@@ -12,22 +12,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <asset:stylesheet src="bootstrap.min.css"/>
     <asset:stylesheet src="jquery-ui.css"/>
-    <asset:stylesheet src="custom.css"/>
+
     <asset:stylesheet src="reset.css"/>
     <asset:stylesheet src="style.css"/>
-
-
     <asset:stylesheet src="jquery.dataTables.min.css"/>
     <asset:stylesheet src="dataTables.tableTools.css"/>
+    <asset:stylesheet src="custom.css"/>
 
     <asset:javascript src="jquery-2.1.4.js"/>
     <asset:javascript src="jquery.mobile.custom.js"/>
     <asset:javascript src="bootstrap.min.js"/>
-    <asset:javascript src="custom.js"/>
+
     <asset:javascript src="modernizr.js"/>
     <asset:javascript src="main.js"/>
     <asset:javascript src="jquery.dataTables.min.js"/>
     <asset:javascript src="dataTables.tableTools.js"/>
+    <asset:javascript src="custom.js"/>
 
     <g:layoutHead/>
 </head>

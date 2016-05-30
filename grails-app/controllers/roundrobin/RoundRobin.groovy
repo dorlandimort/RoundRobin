@@ -5,11 +5,14 @@ package roundrobin
  */
 class RoundRobin {
 
-    List<Process> createRoundRobin(Set<Process> processSet, double quantum) {
+    Map createRoundRobin(Set<Process> processSet, double quantum) {
         Date today = new Date()
         Date todayAux
+        int ctxChanges = 0
         List<Process> processes = new LinkedList<>()
         Deque<Process> stack = new ArrayDeque<>()
+        Map map = new HashMap()
+
         processSet.each { p ->
             stack.addLast(p)
         }
@@ -18,6 +21,9 @@ class RoundRobin {
 
         while (! stack.isEmpty()) {
             p = stack.removeFirst()
+
+            if (! stack.isEmpty())
+                ctxChanges ++
 
             Process aux = new Process()
             aux.name = p.name
@@ -50,7 +56,9 @@ class RoundRobin {
             processes.add(aux)
 
         }
-        return processes
+        map.put("processes", processes)
+        map.put("changes", ctxChanges + 1)
+        return map
 
     }
 

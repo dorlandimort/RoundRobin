@@ -18,8 +18,9 @@ class ProcessController {
             processes.add(p)
         }
 
-        int ctxChanges = 0
-        List<Process> processesList = rrb.createRoundRobin(processes, quantum, ctxChanges)
+        def map = rrb.createRoundRobin(processes, quantum)
+        List<Process> processesList = map.get("processes")
+        int ctxChanges = map.get("changes")
 
         [processes: processesList, originalProcesses: processes, quantum: quantum, ctxChanges: ctxChanges]
     }

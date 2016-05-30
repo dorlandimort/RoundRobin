@@ -13,13 +13,22 @@
 </head>
 
 <body>
+<div class="page-title">
+    <div class="title_left">
+        <h2>Resultados obtenidos</h2>
+
+    </div>
+
+</div>
 <div class="clearfix"></div>
 <div class="row">
     <div class="col-md-12 col-sm-12 col-xs-12">
         <div class="x_panel">
+            <div class="x_title">
+
+            </div>
             <div class="x_content">
-                <section>
-                    <div >
+                    <div>
                         <table id="myTable" class="table table-striped responsive-utilities jambo_table">
                             <thead>
                             <tr class="headings">
@@ -41,9 +50,15 @@
                             </tbody>
                         </table>
                     </div>
-                </section>
+                <br /><br />
+                <ol>
+                    <li>Cambios de contexto: ${ctxChanges}</li>
+                </ol>
                 <section class="cd-horizontal-timeline">
+
                     <div class="timeline">
+                        <h2>Línea de tiempo</h2>
+                        <br /> <br />
                         <div class="events-wrapper">
                             <div class="events">
                                 <ol>
@@ -97,7 +112,6 @@
         </div>
     </div>
 </div>
-
 <g:javascript>
     $(document).ready(function() {
         var oTable = $('#myTable').dataTable({

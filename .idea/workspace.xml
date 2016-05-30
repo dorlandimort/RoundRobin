@@ -41,26 +41,26 @@
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/roundrobin/ProcessController.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+              <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="results.gsp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="results.gsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/views/process/results.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-37.407406">
-              <caret line="78" column="89" selection-start-line="78" selection-start-column="89" selection-end-line="78" selection-end-column="89" />
+            <state vertical-scroll-proportion="0.6519337">
+              <caret line="60" column="24" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="37" />
               <folding>
-                <marker date="1464567392544" expanded="true" signature="4393:5906" placeholder="{...}" />
-                <marker date="1464567392544" expanded="true" signature="4440:5898" placeholder="{&quot;pageLength&quot;: 10...}" />
-                <marker date="1464567392544" expanded="true" signature="4496:5616" placeholder="{&quot;decimal&quot;: &quot;&quot;...}" />
-                <marker date="1464567392544" expanded="true" signature="5211:5411" placeholder="{&quot;first&quot;: &quot;Primero&quot;...}" />
-                <marker date="1464567392544" expanded="true" signature="5437:5602" placeholder="{&quot;sortAscending&quot;: &quot;: Activar ordenación ascendente&quot;...}" />
-                <marker date="1464567392544" expanded="true" signature="5646:5807" placeholder="[...]" />
-                <marker date="1464567392544" expanded="true" signature="5664:5759" placeholder="{&quot;bSortable&quot;: false...}" />
-                <marker date="1464567392544" expanded="true" signature="5889:5898" placeholder="{&quot;pageLength&quot;: 50...}" />
+                <marker date="1464569889748" expanded="true" signature="4728:6241" placeholder="{...}" />
+                <marker date="1464569889748" expanded="true" signature="4775:6233" placeholder="{&quot;pageLength&quot;: 10...}" />
+                <marker date="1464569889748" expanded="true" signature="4831:5951" placeholder="{&quot;decimal&quot;: &quot;&quot;...}" />
+                <marker date="1464569889748" expanded="true" signature="5546:5746" placeholder="{&quot;first&quot;: &quot;Primero&quot;...}" />
+                <marker date="1464569889748" expanded="true" signature="5772:5937" placeholder="{&quot;sortAscending&quot;: &quot;: Activar ordenación ascendente&quot;...}" />
+                <marker date="1464569889748" expanded="true" signature="5981:6142" placeholder="[...]" />
+                <marker date="1464569889748" expanded="true" signature="5999:6094" placeholder="{&quot;bSortable&quot;: false...}" />
+                <marker date="1464569889748" expanded="true" signature="6224:6233" placeholder="{&quot;pageLength&quot;: 50...}" />
               </folding>
             </state>
           </provider>
@@ -69,8 +69,8 @@
       <file leaf-file-name="mainPage.gsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/mainPage.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.740741">
-              <caret line="36" column="68" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
+            <state vertical-scroll-proportion="-12.074074">
+              <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -79,8 +79,8 @@
       <file leaf-file-name="prueba.gsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/process/prueba.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.0">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="19" selection-end-column="35" />
+            <state vertical-scroll-proportion="31.925926">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
               <folding>
                 <marker date="1464566881876" expanded="true" signature="2882:3451" placeholder="{...}" />
                 <marker date="1464566881876" expanded="true" signature="2926:3443" placeholder="{...}" />
@@ -103,11 +103,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RoundRobin.groovy" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RoundRobin.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/roundrobin/RoundRobin.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.11054">
-              <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="59" column="41" selection-start-line="59" selection-start-column="41" selection-end-line="59" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -600,13 +600,13 @@
         <option value="$PROJECT_DIR$/grails-app/controllers/roundrobin/Proceso.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/roundrobin/Proc.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/roundrobin/ProcesoController.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/roundrobin/RoundRobin.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/roundrobin/Process.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/process/_processInput.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/layouts/mainPage.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/process/prueba.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/process/results.gsp" />
         <option value="$PROJECT_DIR$/grails-app/controllers/roundrobin/ProcessController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/roundrobin/RoundRobin.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/layouts/mainPage.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/process/results.gsp" />
       </list>
     </option>
   </component>
@@ -1275,12 +1275,12 @@
       <workItem from="1464458882443" duration="1140000" />
       <workItem from="1464460027708" duration="2684000" />
       <workItem from="1464488695309" duration="9844000" />
-      <workItem from="1464556573489" duration="10693000" />
+      <workItem from="1464556573489" duration="13031000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24441000" />
+    <option name="totallyTimeSpent" value="26779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="1366" height="738" extended-state="0" />
@@ -1360,14 +1360,14 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1464567392544" expanded="true" signature="4393:5906" placeholder="{...}" />
-            <marker date="1464567392544" expanded="true" signature="4440:5898" placeholder="{&quot;pageLength&quot;: 10...}" />
-            <marker date="1464567392544" expanded="true" signature="4496:5616" placeholder="{&quot;decimal&quot;: &quot;&quot;...}" />
-            <marker date="1464567392544" expanded="true" signature="5211:5411" placeholder="{&quot;first&quot;: &quot;Primero&quot;...}" />
-            <marker date="1464567392544" expanded="true" signature="5437:5602" placeholder="{&quot;sortAscending&quot;: &quot;: Activar ordenación ascendente&quot;...}" />
-            <marker date="1464567392544" expanded="true" signature="5646:5807" placeholder="[...]" />
-            <marker date="1464567392544" expanded="true" signature="5664:5759" placeholder="{&quot;bSortable&quot;: false...}" />
-            <marker date="1464567392544" expanded="true" signature="5889:5898" placeholder="{&quot;pageLength&quot;: 50...}" />
+            <marker date="1464569889748" expanded="true" signature="4728:6241" placeholder="{...}" />
+            <marker date="1464569889748" expanded="true" signature="4775:6233" placeholder="{&quot;pageLength&quot;: 10...}" />
+            <marker date="1464569889748" expanded="true" signature="4831:5951" placeholder="{&quot;decimal&quot;: &quot;&quot;...}" />
+            <marker date="1464569889748" expanded="true" signature="5546:5746" placeholder="{&quot;first&quot;: &quot;Primero&quot;...}" />
+            <marker date="1464569889748" expanded="true" signature="5772:5937" placeholder="{&quot;sortAscending&quot;: &quot;: Activar ordenación ascendente&quot;...}" />
+            <marker date="1464569889748" expanded="true" signature="5981:6142" placeholder="[...]" />
+            <marker date="1464569889748" expanded="true" signature="5999:6094" placeholder="{&quot;bSortable&quot;: false...}" />
+            <marker date="1464569889748" expanded="true" signature="6224:6233" placeholder="{&quot;pageLength&quot;: 50...}" />
           </folding>
         </state>
       </provider>
@@ -1567,18 +1567,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/mainPage.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/roundrobin/ProcessController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.740741">
-          <caret line="36" column="68" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/roundrobin/RoundRobin.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="41" selection-start-line="59" selection-start-column="41" selection-end-line="59" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/process/prueba.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.0">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="19" selection-end-column="35" />
+        <state vertical-scroll-proportion="31.925926">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
           <folding>
             <marker date="1464566881876" expanded="true" signature="2882:3451" placeholder="{...}" />
             <marker date="1464566881876" expanded="true" signature="2926:3443" placeholder="{...}" />
@@ -1590,36 +1598,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/mainPage.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.074074">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/process/results.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-37.407406">
-          <caret line="78" column="89" selection-start-line="78" selection-start-column="89" selection-end-line="78" selection-end-column="89" />
+        <state vertical-scroll-proportion="0.6519337">
+          <caret line="60" column="24" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="37" />
           <folding>
-            <marker date="1464567392544" expanded="true" signature="4393:5906" placeholder="{...}" />
-            <marker date="1464567392544" expanded="true" signature="4440:5898" placeholder="{&quot;pageLength&quot;: 10...}" />
-            <marker date="1464567392544" expanded="true" signature="4496:5616" placeholder="{&quot;decimal&quot;: &quot;&quot;...}" />
-            <marker date="1464567392544" expanded="true" signature="5211:5411" placeholder="{&quot;first&quot;: &quot;Primero&quot;...}" />
-            <marker date="1464567392544" expanded="true" signature="5437:5602" placeholder="{&quot;sortAscending&quot;: &quot;: Activar ordenación ascendente&quot;...}" />
-            <marker date="1464567392544" expanded="true" signature="5646:5807" placeholder="[...]" />
-            <marker date="1464567392544" expanded="true" signature="5664:5759" placeholder="{&quot;bSortable&quot;: false...}" />
-            <marker date="1464567392544" expanded="true" signature="5889:5898" placeholder="{&quot;pageLength&quot;: 50...}" />
+            <marker date="1464569889748" expanded="true" signature="4728:6241" placeholder="{...}" />
+            <marker date="1464569889748" expanded="true" signature="4775:6233" placeholder="{&quot;pageLength&quot;: 10...}" />
+            <marker date="1464569889748" expanded="true" signature="4831:5951" placeholder="{&quot;decimal&quot;: &quot;&quot;...}" />
+            <marker date="1464569889748" expanded="true" signature="5546:5746" placeholder="{&quot;first&quot;: &quot;Primero&quot;...}" />
+            <marker date="1464569889748" expanded="true" signature="5772:5937" placeholder="{&quot;sortAscending&quot;: &quot;: Activar ordenación ascendente&quot;...}" />
+            <marker date="1464569889748" expanded="true" signature="5981:6142" placeholder="[...]" />
+            <marker date="1464569889748" expanded="true" signature="5999:6094" placeholder="{&quot;bSortable&quot;: false...}" />
+            <marker date="1464569889748" expanded="true" signature="6224:6233" placeholder="{&quot;pageLength&quot;: 50...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/roundrobin/ProcessController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/roundrobin/RoundRobin.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.11054">
-          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
